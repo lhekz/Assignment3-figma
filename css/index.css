@@ -25,7 +25,7 @@ z-index: 1;
 .first-text > h5 {
    
 position: absolute;
-min-width: 680px;
+min-width: 689px;
 height: 89px;
 right: 670px;
 left: 102px;
@@ -40,7 +40,7 @@ line-height: 138.68%;
 text-align: justify;
 
 color:#FFFFFF;
-margin-right:400px;
+
 
 
 }
@@ -55,7 +55,7 @@ max-width: 363px;
 height: 63px;
 left: 102px;
 top: 49px;
-
+margin: 0px;
 font-family: 'Montserrat';
 font-style: normal;
 font-weight: 700;
@@ -189,7 +189,7 @@ display: flex;
 align-items: center;
 letter-spacing: 3.78667px;
 color: #000000;
-
+margin: 0px;
 box-sizing: border-box;
 position: absolute;
  width: 320px;
